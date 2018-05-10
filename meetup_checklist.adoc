@@ -1,0 +1,3 @@
+# Organization Checklist for Meetups
+
+- To be done. In the mean time, please see the file https://github.com/include-cpp/toolboxes/blob/master/conf_checklist.adoc for things to consider.
