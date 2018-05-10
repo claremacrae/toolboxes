@@ -1,0 +1,3 @@
+# Code of Conduct
+
+The https://berlincodeofconduct.org/[Berlin Code of Conduct] is a widely used code of conduct for conferences and meetups.
